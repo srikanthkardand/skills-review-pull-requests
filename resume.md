@@ -1,2 +1,4 @@
-my resume file, update qualification
+my resume file.
+skills update.
+update qualification
 details.
